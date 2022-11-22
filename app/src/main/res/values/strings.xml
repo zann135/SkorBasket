@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SkorBasket</string>
+    <string name="home_team">Home Team</string>
+    <string name="away_team">Away Team</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="result">Check Result</string>
+
+    <string name="main_judul">Half Live Score</string>
+    <string name="result_judul">Match Result</string>
+    <string name="result_subjudul">The Team Winner Is</string>
+    <string name="result_winner">Name of Winning Team</string>
+</resources>
